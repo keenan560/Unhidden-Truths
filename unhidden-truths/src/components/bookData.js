@@ -62,45 +62,53 @@ const books = [
         author: "Praying Medic",
         image: "https://m.media-amazon.com/images/I/81eAoVd23aL._AC_UY654_FMwebp_QL65_.jpg"
     }, {
-        title: "The Spirit of Python",
-        author: "Jentezen Franklin",
-        image: "./images/python.jpg"
+        title: "Dealing with Demons",
+        author: "Bob Larson",
+        image: "https://m.media-amazon.com/images/I/51gIIjOlitL.jpg"
     }, {
-        title: "The Spirit of Python",
-        author: "Jentezen Franklin",
-        image: "./images/python.jpg"
+        title: "Divine Healing Made Simple",
+        author: "Praying Medic",
+        image: "https://m.media-amazon.com/images/I/51iE9u2dAYL.jpg"
     }, {
-        title: "The Spirit of Python",
-        author: "Jentezen Franklin",
-        image: "./images/python.jpg"
+        title: "Emotional Healing in 3 Easy Steps",
+        author: "Praying Medic",
+        image: "https://m.media-amazon.com/images/I/51d9oKkXa8L.jpg"
     }, {
-        title: "The Spirit of Python",
-        author: "Jentezen Franklin",
-        image: "./images/python.jpg"
+        title: "Placebo: What is the Church's Dope?",
+        author: "Howard Pittman",
+        image: "https://m.media-amazon.com/images/I/51pKwO3okSL._SY346_.jpg"
     }, {
-        title: "The Spirit of Python",
-        author: "Jentezen Franklin",
-        image: "./images/python.jpg"
+        title: "Demon-Proofing Prayers",
+        author: "Bob Larson",
+        image: "https://m.media-amazon.com/images/I/51U0NSEAcfL.jpg"
     }, {
-        title: "The Spirit of Python",
-        author: "Jentezen Franklin",
-        image: "./images/python.jpg"
+        title: "Deliverance and Spiritual Warfare Manual",
+        author: "John Eckhardt",
+        image: "https://m.media-amazon.com/images/I/512gAasp7uL.jpg"
     }, {
-        title: "The Spirit of Python",
-        author: "Jentezen Franklin",
-        image: "./images/python.jpg"
+        title: "Thou Shall Propser",
+        author: "Daniel Lapin",
+        image: "https://m.media-amazon.com/images/I/51JDAuusNbL.jpg"
     }, {
-        title: "The Spirit of Python",
-        author: "Jentezen Franklin",
-        image: "./images/python.jpg"
+        title: "23 Minutes In Hell",
+        author: "Bill Wiese",
+        image: "https://m.media-amazon.com/images/I/516-uYHWQeL._SY346_.jpg"
     }, {
-        title: "The Spirit of Python",
-        author: "Jentezen Franklin",
-        image: "./images/python.jpg"
+        title: "https://m.media-amazon.com/images/I/51djehVSc+L.jpg",
+        author: "Robert Henderson",
+        image: "https://m.media-amazon.com/images/I/51djehVSc+L.jpg"
     }, {
-        title: "The Spirit of Python",
-        author: "Jentezen Franklin",
-        image: "./images/python.jpg"
+        title: "Prophetic Breakthrough: Decrees that Break Curses and Release Blessings",
+        author: "Hakeem Collins",
+        image: "https://m.media-amazon.com/images/I/51Crp1gTZfL._SY346_.jpg"
+    }, {
+        title: "The Biblical Marriage: For God or Government?",
+        author: "Joshua Paul",
+        image: "https://m.media-amazon.com/images/I/51zADajcf0L.jpg"
+    }, {
+        title: "Day Star",
+        author: "Howard Pittman",
+        image: "https://m.media-amazon.com/images/I/51to4jbx6tL.jpg"
     }
 ]
 
