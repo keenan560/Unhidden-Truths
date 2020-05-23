@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&display=swap');
+
+body {
+  background-color: rgba(240, 240, 214, 1);
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.navbar {
+  background-color: rgba(103, 128, 159, 1) !important;
+}
+
+.navbar-brand {
+  color: rgba(250, 216, 89, 1) !important;
+  font-size: x-large !important;
+
+  font-weight: bolder;
+  border: thin solid rgba(250, 216, 89, 1) ;
+  padding: 10px;
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: bold;
+    font-size: large;
+}
+h1 {
+  color: rgba(250, 216, 89, 1) ;
+}
+
+#about-box{
+   background-color: rgba(103, 128, 159, 1) !important;
+   color: white;
+   margin-top: 150px !important;
+   padding: 15px 10px 50px 10px;
+   height: 100%;
+}
+
+#about-body {
+  font-size: larger;
+  font-weight: bold;
+  text-align: auto;
+  margin-top: 65px;
+}
+
+#couple {
+  float: left;
+  height: 300px;
+  margin-right: 10px;
+  margin-bottom: 20px !important;
+}
+
+.card {
+  width: 11rem;
+}
+
+.card-img-top {
+  max-height: 235px;
+}
+
+.card-body {
+  background-color:rgba(103, 128, 159, 1) ;
+  color: white !important;
+  height: 200px;
+  
+
+}
+
+.card-title {
+  font-size: 16px !important;
+}
+
+.book-button {
+  color:rgba(250, 216, 89, 1);
+  background-color: rgba(103, 128, 159, 1);
+}
