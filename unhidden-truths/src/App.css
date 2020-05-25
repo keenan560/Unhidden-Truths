@@ -56,6 +56,7 @@ h1 {
   max-height: 235px;
 }
 
+
 .card-body {
   background-color:rgba(103, 128, 159, 1) ;
   color: white !important;
@@ -68,7 +69,12 @@ h1 {
   font-size: 16px !important;
 }
 
-.book-button {
-  color:rgba(250, 216, 89, 1);
-  background-color: rgba(103, 128, 159, 1);
+#modal-button {
+  color: white;
+  background-color:rgba(240, 240, 214, 1) ;
+  border: rgba(240, 240, 214, 1);
+}
+
+img:hover {
+  border: solid thick rgba(103, 128, 159, 1) ;
 }
