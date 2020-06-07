@@ -1,20 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&display=swap');
 
 body {
-  background-color: rgba(240, 240, 214, 1);
+  /* background-color: rgba(240, 240, 214, 1); */
+  background-image: url(./sunset.jpeg);  
+  background-repeat:  no-repeat;
+  background-position:  center center;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
   font-family: 'Roboto Condensed', sans-serif;
 }
 .navbar {
-  background-color: rgba(103, 128, 159, 1) !important;
+  background-color: rgba(115, 101, 152, 1) !important;
 }
 
 .navbar-brand {
-  color: rgba(250, 216, 89, 1) !important;
+  color: white;
   font-size: x-large !important;
-
   font-weight: bolder;
-  border: thin solid rgba(250, 216, 89, 1) ;
+  border: thin solid white;
   padding: 10px;
+}
+
+.navbar-brand:hover {
+  color: gold;
 }
 
 .nav-link {
@@ -27,7 +38,7 @@ h1 {
 }
 
 #about-box{
-   background-color: rgba(103, 128, 159, 1) !important;
+   /* background-color: rgba(115, 101, 152, 1) !important; */
    color: white;
    margin-top: 150px !important;
    padding: 15px 10px 50px 10px;
@@ -58,7 +69,7 @@ h1 {
 
 
 .card-body {
-  background-color:rgba(103, 128, 159, 1) ;
+  background-color:rgba(115, 101, 152, 1) ;
   color: white !important;
   height: 200px;
   
@@ -71,10 +82,15 @@ h1 {
 
 #modal-button {
   color: white;
-  background-color:rgba(240, 240, 214, 1) ;
-  border: rgba(240, 240, 214, 1);
+  /* background-color:rgba(240, 240, 214, 1) ; */
+  /* border: rgba(240, 240, 214, 1); */
 }
 
-img:hover {
-  border: solid thick rgba(103, 128, 159, 1) ;
+#home-note {
+  font-style: italic;
+}
+
+#landing {
+  position: fixed;
+  top: 400px;
 }

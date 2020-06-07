@@ -1,4 +1,5 @@
 import React from "react";
+import Home from "./Home.js"
 import About from "./About";
 import Books from "./Books";
 import Contact from "./Contact";
@@ -50,6 +51,9 @@ export default function Nav() {
                 </nav>
 
                 <Switch>
+                    <Route exact path='/'>
+                        <Home/>
+                    </Route>
                     <Route path="/about">
                         <About />
                     </Route>
